@@ -10,6 +10,10 @@
 :pushpin: Veja mais sobre mim, em: [Linkedin](https://www.linkedin.com/in/andrea-dcsousa/)  
 :mailbox: Entre em contato comigo: [E-mail](mailto:andrea.dcsousa@gmail.com)
 
+### Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/andreadcsousa/github-readme-stats)
+
 <!--
 **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
