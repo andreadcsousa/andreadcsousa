@@ -13,6 +13,9 @@
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true)
+
+### Linguagens
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/andreadcsousa/github-readme-stats)
 
 <!--
