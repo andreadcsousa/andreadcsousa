@@ -10,9 +10,9 @@
 :pushpin: Veja mais sobre mim, em: [Linkedin](https://www.linkedin.com/in/andrea-dcsousa/)  
 :mailbox: Entre em contato comigo: [E-mail](mailto:andrea.dcsousa@gmail.com)
 
-### Status
-
+<!--### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true)
+-->
 
 ### Linguagens
 
