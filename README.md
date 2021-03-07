@@ -21,13 +21,13 @@
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Status
-<!--### Status ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/andreadcsousa/github-readme-stats)
-
 ### Hobbies
 
 ![Netflix Badge](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&https://steamcommunity.com/id/deeppink)
+
+### Status
+<!--### Status ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/andreadcsousa/github-readme-stats)
 
 <!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
