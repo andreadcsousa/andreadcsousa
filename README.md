@@ -29,5 +29,6 @@
 
 ### Status
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=andreadcsousa&repo=github-readme-stats)](https://github.com/andreadcsousa/github-readme-stats)  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&hide_title=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=default&card_width=494&hide_title=true&theme=radical)
