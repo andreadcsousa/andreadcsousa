@@ -30,4 +30,5 @@
 ### Status
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa)](https://github.com/andreadcsousa/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true)
