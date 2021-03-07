@@ -1,3 +1,4 @@
+<!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Olá, pessoas! 👋
 
 :octocat: Meu nome é Andrea, tenho 33 anos e sou de Salvador, Bahia.  
@@ -27,7 +28,5 @@
 [![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/deeppink)
 
 ### Status
-<!--### Status ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)
 
-<!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)
