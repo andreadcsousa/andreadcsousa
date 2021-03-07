@@ -1,9 +1,9 @@
 ### Olá, pessoas! 👋
 
-> :octocat: Meu nome é Andrea, tenho 33 anos e sou de Salvador, Bahia.  
-> :mortar_board: Sou formada em Administração e estou fazendo pós em Docência.  
-> :seedling: Estou aprendendo desenvolvimento web e criação de sites.  
-> :purple_heart: Quero me tornar uma Desenvolvedora Front-End.  
+:octocat: Meu nome é Andrea, tenho 33 anos e sou de Salvador, Bahia.  
+:mortar_board: Sou formada em Administração e estou fazendo pós em Docência.  
+:seedling: Estou aprendendo desenvolvimento web e criação de sites.  
+:purple_heart: Quero me tornar uma Desenvolvedora Front-End.  
 
 ### Contato
 
