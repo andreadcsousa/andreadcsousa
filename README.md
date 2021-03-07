@@ -7,8 +7,8 @@
 
 ### Contato
 
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-dcsousa/)
-![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:andrea.dcsousa@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-dcsousa/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.dcsousa@gmail.com)
 
 ### Linguagens
 
@@ -24,7 +24,7 @@
 ### Hobbies
 
 ![Netflix Badge](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white&https://steamcommunity.com/id/deeppink)
+[![Steam Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/deeppink)
 
 ### Status
 <!--### Status ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true) -->
