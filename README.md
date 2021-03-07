@@ -7,17 +7,22 @@
 
 ### Contato
 
-:pushpin: Veja mais sobre mim, em: [Linkedin](https://www.linkedin.com/in/andrea-dcsousa/)  
-:mailbox: Entre em contato comigo: [E-mail](mailto:andrea.dcsousa@gmail.com)
-
-<!--### Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true)
--->
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrea-dcsousa/)
+![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&mailto:andrea.dcsousa@gmail.com)
 
 ### Linguagens
 
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Ferramentas
+
+![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Status
+<!--### Status ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&theme=radical&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/andreadcsousa/github-readme-stats)
 
-<!--
-**andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
