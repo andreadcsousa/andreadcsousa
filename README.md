@@ -29,5 +29,5 @@
 
 ### Status
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&hide_title&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact&theme=radical)
