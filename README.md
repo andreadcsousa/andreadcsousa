@@ -21,7 +21,7 @@
 
 ![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Repl.it Badge](https://img.shields.io/badge/Replit-gray?style=for-the-badge&logo=badge/repl-dot-it.svg)
+![Repl.it Badge](https://img.shields.io/badge/Replit-gray?style=for-the-badge&logo=repl-dot-it)
 
 ### Hobbies
 
