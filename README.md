@@ -30,6 +30,6 @@
 
 ### Status
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&hide_title=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=default&card_width=494&hide_title=true&theme=radical)  
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&hide_title=true&theme=radical)](https://github.com/andreadcsousa/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=default&card_width=494&theme=radical)  
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&theme=radical)](https://github.com/andreadcsousa/github-readme-stats)
