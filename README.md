@@ -1,6 +1,8 @@
 <!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Olá, pessoas! 👋
 
+<img align="right" width="40%" alt="piscadela" src="https://media.giphy.com/media/xUA7aUAvc1Cw6VlWF2/giphy.gif" style="max-width:100%;">
+
 :octocat: Meu nome é Andrea, tenho 33 anos e sou de Salvador, Bahia.  
 :mortar_board: Sou formada em Administração e estou fazendo pós em Docência.  
 :seedling: Estou aprendendo desenvolvimento web e criação de sites.  
