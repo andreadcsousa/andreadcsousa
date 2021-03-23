@@ -2,7 +2,7 @@
 
 <img align="right" width="40%" alt="piscadela" src="https://media.giphy.com/media/xUA7aUAvc1Cw6VlWF2/giphy.gif" style="max-width:100%;">
 
-### Olá, pessoas! 👋
+## Olá, pessoas! 👋
 
 :octocat: Meu nome é Andrea, tenho 33 anos e sou de Salvador, Bahia.  
 :mortar_board: Sou formada em Administração e estou fazendo pós em Docência.  
