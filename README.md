@@ -9,6 +9,9 @@
 :seedling: Estou aprendendo desenvolvimento web e criação de sites.  
 :purple_heart: Quero me tornar uma Desenvolvedora Front-End.  
 
+Enquanto não crio meu portfólio, veja os projetos  
+que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
+
 ### Contato
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-dcsousa/)
