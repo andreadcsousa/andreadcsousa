@@ -48,4 +48,6 @@ que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=default&card_width=494&include_all_commits&theme=radical)  
 
+![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
+
 <!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&include_all_commits&theme=radical)](https://github.com/andreadcsousa/github-readme-stats) -->
