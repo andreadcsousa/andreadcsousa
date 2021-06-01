@@ -9,8 +9,7 @@
 :seedling: Estou aprendendo desenvolvimento web e criação de sites.  
 :purple_heart: Quero me tornar uma Desenvolvedora Front-End.  
 
-Enquanto não crio meu portfólio, veja os projetos  
-que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
+Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
 ### Contato & Social
 
