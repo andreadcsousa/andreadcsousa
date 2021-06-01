@@ -31,8 +31,9 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Opera Badge](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Repl.it Badge](https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=repl.it&logoColor=white)
 ![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+<!--![Repl.it Badge](https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=repl.it&logoColor=white)-->
 
 ### Design
 
@@ -40,7 +41,6 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 ![Illustrator badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
 ![Pexels Badge](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ### Status
  
