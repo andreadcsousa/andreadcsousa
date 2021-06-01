@@ -24,7 +24,7 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<!--![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
 
 ### Ferramentas
 
@@ -46,7 +46,6 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=default&card_width=494&include_all_commits&theme=radical)  
+<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&include_all_commits&theme=radical)](https://github.com/andreadcsousa/github-readme-stats) -->
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
-
-<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&include_all_commits&theme=radical)](https://github.com/andreadcsousa/github-readme-stats) -->
