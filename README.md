@@ -29,9 +29,7 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Opera Badge](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-<!--![Repl.it Badge](https://img.shields.io/badge/Repl.it-667881?style=for-the-badge&logo=repl.it&logoColor=white)-->
 
 ### Design
 
