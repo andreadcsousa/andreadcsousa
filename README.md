@@ -1,6 +1,6 @@
 <!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img align="right" width="40%" alt="piscadela" src="https://media.giphy.com/media/xUA7aUAvc1Cw6VlWF2/giphy.gif" style="max-width:100%;">
+<img align="right" width="25%" alt="piscadela" src="https://media.giphy.com/media/xUA7aUAvc1Cw6VlWF2/giphy.gif" style="max-width:100%;">
 
 # Olá, pessoas! 👋
 
