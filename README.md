@@ -5,9 +5,9 @@
 # Olá, pessoas! 👋
 
 :octocat: Meu nome é Andrea, tenho 34 anos e sou de Salvador, Bahia.  
-:mortar_board: Sou formada em Administração e faço pós em Docência.  
-:seedling: Estou aprendendo desenvolvimento web e criação de sites.  
-:purple_heart: Quero me tornar uma Desenvolvedora Front-End.  
+:mortar_board: Sou formada em Administração e faço pós em Docência Superior.  
+:seedling: Estou aprendendo desenvolvimento web e criação de páginas.  
+:purple_heart: Quero me tornar uma Designer ou Desenvolvedora Front-End.  
 
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
@@ -22,26 +22,26 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-<!--![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)-->
+![JS Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Ferramentas
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Opera Badge](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=opera&logoColor=white)
 ![VS Code Badge](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+[![Trello Badge](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/vZhI01ls/tecnologia)
 
 ### Design
 
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/andrea-sousa)
 ![Illustrator badge](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD Badge](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Pexels Badge](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)
 
 ### Status
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact&card_height=200&include_all_commits&theme=radical)  
-<!-- [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreadcsousa&layout=compact&card_width=494&include_all_commits&theme=radical)](https://github.com/andreadcsousa/github-readme-stats) -->
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&theme=radical" alt="andreadcsousa" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&layout=compact&include_all_commits&theme=radical" alt="andreadcsousa" />
+</div> 
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
