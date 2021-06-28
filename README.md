@@ -40,8 +40,8 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 ### Status
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&theme=radical" alt="andreadcsousa" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&layout=compact&include_all_commits&theme=radical" alt="andreadcsousa" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&theme=outrun" alt="andreadcsousa" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&layout=compact&include_all_commits&theme=outrun" alt="andreadcsousa" />
 </div> 
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
