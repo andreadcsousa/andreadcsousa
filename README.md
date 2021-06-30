@@ -11,6 +11,14 @@
 
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
+### Personalize o seu Github
+
+<hr>
+
+:link: [Markdown](https://github.com/luong-komorebi/Markdown-Tutorial) :link: [Status](https://github.com/anuraghazra/github-readme-stats) :link: [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile) :link: [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) :link: [Template](https://github.com/othneildrew/Best-README-Template)
+
+<hr>
+
 ### Contato & Social
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.dcsousa@gmail.com)
@@ -42,6 +50,6 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&hide_border=true&theme=outrun" alt="andreadcsousa" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa" />
-</div> 
+</div>
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
