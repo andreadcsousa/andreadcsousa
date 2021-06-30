@@ -12,7 +12,6 @@
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
 ### Personalize o seu Github
-
 <hr>
 
 :link: [Markdown](https://github.com/luong-komorebi/Markdown-Tutorial) :link: [Status](https://github.com/anuraghazra/github-readme-stats) :link: [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile) :link: [Emojis](https://www.webfx.com/tools/emoji-cheat-sheet/) :link: [Template](https://github.com/othneildrew/Best-README-Template)
