@@ -28,9 +28,10 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 
 ### Trabalhando com
 
-![Microsoft Teams Badge](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+![Google Meet Badge](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)
 ![Azure DevOps Badge](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![SQL Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ### Linguagens
