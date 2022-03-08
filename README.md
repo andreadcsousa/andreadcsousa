@@ -4,10 +4,10 @@
 
 ## Olá, pessoas! 👋
 
-:purple_heart: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
+:yellow_heart: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
 :blue_heart: Sou formada em Administração e pós-graduada em Docência Superior.  
 :green_heart: Estou atuando na área de dados, com SQL, SSIS e Power BI.  
-:heart: Comecei minha jornada tech com desenvolvimento front-end.
+:purple_heart: Comecei minha jornada tech com desenvolvimento front-end.
 
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
