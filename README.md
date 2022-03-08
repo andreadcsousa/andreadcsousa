@@ -1,6 +1,6 @@
 <!-- **andreadcsousa/andreadcsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<img align="right" width="35%" alt="borderlands-lilith-maya-boom" src="https://24.media.tumblr.com/2f8deab112ba5ac1b940218990b82a71/tumblr_mii3f4R5NP1rw8jabo6_250.gif">
+<img align="right" width="40%" alt="borderlands-lilith-maya-boom" src="https://24.media.tumblr.com/2f8deab112ba5ac1b940218990b82a71/tumblr_mii3f4R5NP1rw8jabo6_250.gif">
 
 ## Olá, pessoas! 👋
 
