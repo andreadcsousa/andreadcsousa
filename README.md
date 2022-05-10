@@ -10,8 +10,7 @@
 :computer: Comecei minha jornada tech com desenvolvimento front-end.  
 :game_die: Atuando na área de dados, com SQL, SSIS e Power BI.
 
-Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).  
-Mais informações de contato, ferramentas e status da conta, abaixo.
+Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
 ### :crystal_ball: Links
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
