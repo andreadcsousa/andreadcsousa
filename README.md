@@ -29,7 +29,7 @@ Mais informações de contato, ferramentas e status da conta, abaixo.
 <a href=""><img src="https://i.imgur.com/8y8H4ig.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/Rbf6TWU.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/U0Ejf5w.png" width="70px"></a>
-<a href=""><img src="https://i.imgur.com/GxaN9fH.png" width="70px"></a>
+<a href=""><img src="https://i.imgur.com/GxaN9fH.png" width="70px"></a>  
 <a href="https://trello.com/b/vZhI01ls/tecnologia" target="_blank"><img src="https://i.imgur.com/k62CsEU.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/rVWEriR.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/w3sO6TG.png" width="70px"></a>
