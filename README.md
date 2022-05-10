@@ -10,9 +10,10 @@
 :computer: Comecei minha jornada tech com desenvolvimento front-end.  
 :game_die: Atuando na área de dados, com SQL, SSIS e Power BI.
 
-Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
+Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).  
+Mais informações de contato, ferramentas e status da conta, abaixo.
 
-### Links:
+### :crystal_ball: Links
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
 <a href="https://www.linkedin.com/in/andrea-dcsousa/" target="_blank"><img src="https://i.imgur.com/9uQdfiX.png" width="70px"></a>
 <a href="https://discord.com/channels/@pinkaguilera#3044" target="_blank"><img src="https://i.imgur.com/Zyc3MPt.png" width="70px"></a>
@@ -21,7 +22,7 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <a href=""><img src="https://i.imgur.com/spzddjK.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/kQhQPpM.png" width="70px"></a>
 
-### Ferramentas:
+### :bulb: Ferramentas
 <a href=""><img src="https://i.imgur.com/Hu8eaWw.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/LbzYxHQ.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/1tEsZTY.png" width="70px"></a>
@@ -36,7 +37,7 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <a href="https://www.behance.net/andrea-sousa" target="_blank"><img src="https://i.imgur.com/Uz3AXLi.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/1hs2zFG.png" width="70px"></a>
 
-## :star: Meus status
+### :star: Status
 
 <div>
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&hide_border=true&theme=outrun" alt="andreadcsousa" />
