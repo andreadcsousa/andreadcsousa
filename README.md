@@ -16,10 +16,10 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
 <a href="https://www.linkedin.com/in/andrea-dcsousa/" target="_blank"><img src="https://i.imgur.com/9uQdfiX.png" width="70px"></a>
 <a href="https://discord.com/channels/@pinkaguilera#3044" target="_blank"><img src="https://i.imgur.com/Zyc3MPt.png" width="70px"></a>
-<a href=""><img src="https://i.imgur.com/OVnWiAa.png" width="70px"></a>
+<a href="https://www.netflix.com/br/title/80027042" target="_blank"><img src="https://i.imgur.com/OVnWiAa.png" width="70px"></a>
 <a href="https://steamcommunity.com/id/deeppink/" target="_blank"><img src="https://i.imgur.com/2nWutr7.png" width="70px"></a>
-<a href=""><img src="https://i.imgur.com/spzddjK.png" width="70px"></a>
-<a href=""><img src="https://i.imgur.com/kQhQPpM.png" width="70px"></a>
+<a href="https://worldofwarcraft.com/pt-br/" target="_blank"><img src="https://i.imgur.com/spzddjK.png" width="70px"></a>
+<a href="https://store.epicgames.com/pt-BR/p/tiny-tinas-wonderlands" target="_blank"><img src="https://i.imgur.com/kQhQPpM.png" width="70px"></a>
 
 ### :bulb: Ferramentas
 <a href=""><img src="https://i.imgur.com/Hu8eaWw.png" width="70px"></a>
