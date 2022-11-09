@@ -7,8 +7,7 @@
 :pisces: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
 :mortar_board: Formada em Administração e pós-graduada em Docência Superior.  
 :coffee: Apaixonada por jogos, séries, filmes, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
-:computer: Comecei minha jornada tech com desenvolvimento front-end.  
-:game_die: Atuando na área de dados, com SQL, SSIS e Power BI.
+:computer: Estudando desenvolvimento front-end e criando umas landing pages.
 
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
