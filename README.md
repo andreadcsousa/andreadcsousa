@@ -7,7 +7,7 @@
 :pisces: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
 :mortar_board: Formada em Administração e pós-graduada em Docência Superior.  
 :coffee: Apaixonada por jogos, séries, filmes, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
-:computer: Estudando desenvolvimento front-end e criando umas landing pages.
+:computer: Estudando front-end, dados, criando umas landing pages e uns dashboards.
 
 Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
 
@@ -23,15 +23,18 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 ### :bulb: Ferramentas
 <a href=""><img src="https://i.imgur.com/Hu8eaWw.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/LbzYxHQ.png" width="70px"></a>
+<a href="https://trello.com/b/vZhI01ls/tecnologia" target="_blank"><img src="https://i.imgur.com/k62CsEU.png" width="70px"></a>
+
 <a href=""><img src="https://i.imgur.com/1tEsZTY.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/8y8H4ig.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/Rbf6TWU.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/U0Ejf5w.png" width="70px"></a>
-<a href=""><img src="https://i.imgur.com/GxaN9fH.png" width="70px"></a>  
-<a href="https://trello.com/b/vZhI01ls/tecnologia" target="_blank"><img src="https://i.imgur.com/k62CsEU.png" width="70px"></a>
+
+<a href=""><img src="https://i.imgur.com/GxaN9fH.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/rVWEriR.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/w3sO6TG.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/RCqskIB.png" width="70px"></a>
+
 <a href="https://www.behance.net/andrea-sousa" target="_blank"><img src="https://i.imgur.com/Uz3AXLi.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/1hs2zFG.png" width="70px"></a>
 
