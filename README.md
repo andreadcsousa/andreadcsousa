@@ -24,7 +24,6 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <a href=""><img src="https://i.imgur.com/Hu8eaWw.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/LbzYxHQ.png" width="70px"></a>
 <a href="https://trello.com/b/vZhI01ls/tecnologia" target="_blank"><img src="https://i.imgur.com/k62CsEU.png" width="70px"></a>
-
 <a href=""><img src="https://i.imgur.com/1tEsZTY.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/8y8H4ig.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/Rbf6TWU.png" width="70px"></a>
@@ -34,7 +33,6 @@ Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsous
 <a href=""><img src="https://i.imgur.com/rVWEriR.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/w3sO6TG.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/RCqskIB.png" width="70px"></a>
-
 <a href="https://www.behance.net/andrea-sousa" target="_blank"><img src="https://i.imgur.com/Uz3AXLi.png" width="70px"></a>
 <a href=""><img src="https://i.imgur.com/1hs2zFG.png" width="70px"></a>
 
