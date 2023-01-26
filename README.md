@@ -5,11 +5,12 @@
 ## Olá, pessoas! 👋
 
 :pisces: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
-:mortar_board: Formada em Administração e pós-graduada em Docência Superior.  
-:coffee: Apaixonada por jogos, séries, filmes, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
-:computer: Estudando front-end, dados, criando umas landing pages e uns dashboards.
+:mortar_board: Bacharel em Administração e pós-graduada em Docência Superior.  
+:coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
+:rocket: Estudando front-end e criando umas landing pages em HTML, CSS e Javascript.
+:brain: Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
 
-### :crystal_ball: Links
+### :crystal_ball: Links utéis
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
 <a href="https://www.linkedin.com/in/andrea-dcsousa/" target="_blank"><img src="https://i.imgur.com/9uQdfiX.png" width="70px"></a>
 <a href="https://discord.com/channels/@pinkaguilera#3044" target="_blank"><img src="https://i.imgur.com/Zyc3MPt.png" width="70px"></a>
