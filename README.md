@@ -7,7 +7,7 @@
 :pisces: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
 :mortar_board: Bacharel em Administração e pós-graduada em Docência Superior.  
 :coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
-:rocket: Estudando front-end e criando umas landing pages em HTML, CSS e Javascript.
+:rocket: Estudando front-end e criando umas landing pages em HTML, CSS e Javascript.  
 :brain: Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
 
 ### :crystal_ball: Links utéis
