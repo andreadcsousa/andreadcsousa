@@ -9,8 +9,6 @@
 :coffee: Apaixonada por jogos, séries, filmes, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
 :computer: Estudando front-end, dados, criando umas landing pages e uns dashboards.
 
-Veja os projetos que desenvolvi em cursos e estudos, [aqui](https://andreadcsousa.github.io/).
-
 ### :crystal_ball: Links
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
 <a href="https://www.linkedin.com/in/andrea-dcsousa/" target="_blank"><img src="https://i.imgur.com/9uQdfiX.png" width="70px"></a>
