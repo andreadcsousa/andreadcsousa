@@ -4,11 +4,11 @@
 
 ## Olá, pessoas! 👋
 
-:pisces: Meu nome é Andrea, tenho 35 anos e sou de Salvador, Bahia.  
+:pisces: Meu nome é Andrea, tenho 35 anos, uma filha de 9 e sou soteropolitana.  
 :mortar_board: Bacharel em Administração e pós-graduada em Docência Superior.  
 :coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [xtina](https://www.instagram.com/xtina/)  
-:rocket: Estudando front-end e criando umas landing pages em HTML, CSS e Javascript.  
-:brain: Me especializando em dados e criando uns dashboards, com SQL, Excel e Power BI.
+:rocket: Aspirante a dev. front-end, nível básico em HTML, CSS e Javascript.  
+:brain: Estudando Python e SQL em dados, criando uns dashboards com Excel e PBI.
 
 ### :crystal_ball: Links úteis
 <a href="mailto:andrea.dcsousa@gmail.com" target="_blank"><img src="https://i.imgur.com/l4jQiL1.png" width="70px"></a>
