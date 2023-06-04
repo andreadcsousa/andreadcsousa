@@ -37,10 +37,6 @@
 <a href="https://www.behance.net/andrea-sousa" target="_blank"><img src="https://i.imgur.com/Uz3AXLi.png" width="70px"></a>
 
 ### :star: Status
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true&include_all_commits=true&hide_border=true&theme=outrun" alt="andreadcsousa">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
