@@ -2,10 +2,10 @@
 
 ## Olá, pessoas! 👋
 
-:pisces: Meu nome é Andrea, tenho 37 anos, uma filha de 10 e sou soteropolitana.  
-:mortar_board: Bacharel em Administração e Especialista em Docência do Ensino Superior.  
-:briefcase: Atuando como Analista de Dados no Observatório FIESC, parte do IEL de Santa Catarina.  
-:coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza, doritos e [Christina Aguilera](https://www.instagram.com/xtina/).  
+:pisces: Meu nome é Andrea, tenho 38 anos, uma filha de 12 e sou soteropolitana.  
+:mortar_board: Especialização em Ciência de Dados e Big Data.  
+:briefcase: Tutora no curso de dados da PrograMaria.  
+:coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [Christina Aguilera](https://www.instagram.com/xtina/).  
 :rocket: Aspirante a desenvolvedora front-end, designer gráfico e escritora de contos e poemas.  
 :brain: O que você acha mais provável, que tenhamos só dois extremos ou todo um gradiente de preferências?
 
