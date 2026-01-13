@@ -61,6 +61,7 @@
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 ### :star: Status
-<!--><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=andreadcsousa&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
