@@ -64,5 +64,6 @@
   [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   ![Status](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
