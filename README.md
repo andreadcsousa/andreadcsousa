@@ -61,6 +61,8 @@
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 ### :star: Status
+  [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ![Status](https://github-readme-stats.vercel.app/api?username=andreadcsousa&show_icons=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
