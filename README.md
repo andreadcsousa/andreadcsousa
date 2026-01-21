@@ -2,7 +2,7 @@
 
 ## Olá, pessoas! 👋
 
-:pisces: Meu nome é Andrea, tenho andrea_age anos, uma filha de daughter_age e sou soteropolitana.  
+:pisces: Meu nome é Andrea, tenho ANDREA_IDADE anos, uma filha de FILHA_IDADE e sou soteropolitana.  
 :mortar_board: Especialização em Ciência de Dados e Big Data.  
 :briefcase: Tutora no curso de dados da PrograMaria.  
 :coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [Christina Aguilera](https://www.instagram.com/xtina/).  

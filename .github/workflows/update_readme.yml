@@ -18,22 +18,27 @@ jobs:
         run: |
           python3 -c "
           import datetime
-          import re
 
           def calculate_age(year, month, day=1):
               today = datetime.date.today()
               birth = datetime.date(year, month, day)
               return str(today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day)))
 
-          andrea_age = calculate_age(1987, 3, 16)
-          daughter_age = calculate_age(2013, 12, 2)
+          # Calcula as idades reais
+          nova_idade_andrea = calculate_age(1987, 3, 16)
+          nova_idade_filha = calculate_age(2013, 12, 2)
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
-          # O script agora busca o texto com espaços para garantir que encontre
-          content = re.sub(r'.*?', f'{andrea_age}', content)
-          content = re.sub(r'.*?', f'{daughter_age}', content)
+          # Substitui as palavras-chave pelos números calculados
+          # IMPORTANTE: Isso vai trocar a palavra pelo número. 
+          # Para o script funcionar amanhã, ele vai procurar o número atual e trocar pelo novo.
+
+          import re
+          # Procura por números ou pelas palavras iniciais e substitui
+          content = re.sub(r'(\d+|ANDREA_IDADE)(?= anos)', nova_idade_andrea, content)
+          content = re.sub(r'(\d+|FILHA_IDADE)(?= e sou)', nova_idade_filha, content)
 
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content)
