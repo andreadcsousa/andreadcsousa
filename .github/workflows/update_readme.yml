@@ -1,46 +1,35 @@
-name: Update README Ages
+- name: Update Ages
+  run: |
+    python3 - << 'EOF'
+    import datetime
+    import re
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    def calculate_age(year, month, day):
+        today = datetime.date.today()
+        birth = datetime.date(year, month, day)
+        return str(
+            today.year - birth.year -
+            ((today.month, today.day) < (birth.month, birth.day))
+        )
 
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v4
+    idade_andrea = calculate_age(1987, 3, 16)
+    idade_filha = calculate_age(2013, 12, 2)
 
-      - name: Update Ages
-        run: |
-          python3 -c "
-          import datetime
+    with open("README.md", "r", encoding="utf-8") as f:
+        content = f.read()
 
-          def calculate_age(year, month, day=1):
-              today = datetime.date.today()
-              birth = datetime.date(year, month, day)
-              return str(today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day)))
+    content = re.sub(
+        r"(tenho )\d+( anos)",
+        rf"\1{idade_andrea}\2",
+        content
+    )
 
-          nova_idade_andrea = calculate_age(1987, 3, 16)
-          nova_idade_filha = calculate_age(2013, 12, 2)
+    content = re.sub(
+        r"(uma filha de )\d+",
+        rf"\1{idade_filha}",
+        content
+    )
 
-          with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
-
-          import re
-          content = re.sub(r'(\d+|ANDREA_IDADE)(?= anos)', nova_idade_andrea, content)
-          content = re.sub(r'(\d+|FILHA_IDADE)(?= e sou)', nova_idade_filha, content)
-
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(content)
-          "
-
-      - name: Commit changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update ages' && git push)
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(content)
+    EOF
