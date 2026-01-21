@@ -24,19 +24,13 @@ jobs:
               birth = datetime.date(year, month, day)
               return str(today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day)))
 
-          # Calcula as idades reais
           nova_idade_andrea = calculate_age(1987, 3, 16)
           nova_idade_filha = calculate_age(2013, 12, 2)
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
-          # Substitui as palavras-chave pelos números calculados
-          # IMPORTANTE: Isso vai trocar a palavra pelo número. 
-          # Para o script funcionar amanhã, ele vai procurar o número atual e trocar pelo novo.
-
           import re
-          # Procura por números ou pelas palavras iniciais e substitui
           content = re.sub(r'(\d+|ANDREA_IDADE)(?= anos)', nova_idade_andrea, content)
           content = re.sub(r'(\d+|FILHA_IDADE)(?= e sou)', nova_idade_filha, content)
 
