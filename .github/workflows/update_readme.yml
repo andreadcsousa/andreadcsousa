@@ -1,46 +1,23 @@
-name: Update README Ages
-
-on:
-  schedule:
-    # Roda todos os dias à meia-noite para checar aniversários
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite que você rode manualmente para testar
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v3
-
-      - name: Update Ages
+- name: Update Ages
         run: |
           python3 -c "
           import datetime
           import re
 
-          def calculate_age(year, month):
+          def calculate_age(year, month, day=1):
               today = datetime.date.today()
-              birth = datetime.date(year, month, 1) # Considerando dia 1 do mês
-              age = today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day))
-              return str(age)
+              birth = datetime.date(year, month, day)
+              return str(today.year - birth.year - ((today.month, today.day) < (birth.month, birth.day)))
 
-          andrea_age = calculate_age(1987, 3)
-          daughter_age = calculate_age(2013, 12)
+          andrea_age = calculate_age(1987, 3, 16)
+          daughter_age = calculate_age(2013, 12, 2)
 
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
-          content = re.sub(r'.*?', f'{andrea_age}', content)
-          content = re.sub(r'.*?', f'{daughter_age}', content)
+          content = re.sub(r'()(.*?)()', r'\16' + andrea_age + r'\3', content)
+          content = re.sub(r'()(.*?)()', r'\2' + daughter_age + r'\3', content)
 
           with open('README.md', 'w', encoding='utf-8') as f:
               f.write(content)
           "
-
-      - name: Commit changes
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m 'Update ages' && git push)
