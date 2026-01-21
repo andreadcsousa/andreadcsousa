@@ -2,7 +2,7 @@
 
 ## Olá, pessoas! 👋
 
-:pisces: Meu nome é Andrea, tenho 38 anos, uma filha de 12 e sou soteropolitana.  
+:pisces: Meu nome é Andrea, tenho andrea_age anos, uma filha de daughter_age e sou soteropolitana.  
 :mortar_board: Especialização em Ciência de Dados e Big Data.  
 :briefcase: Tutora no curso de dados da PrograMaria.  
 :coffee: Apaixonada por jogos, séries, filmes, signos, boxe, pizza e [Christina Aguilera](https://www.instagram.com/xtina/).  
@@ -10,6 +10,7 @@
 :brain: O que você acha mais provável, que tenhamos só dois extremos ou todo um gradiente de preferências?
 
 ### :crystal_ball: Comunicação
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.dcsousa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-dcsousa/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5548988801574)
@@ -18,6 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pinkLOVESxtina)
 
 ### :bulb: Habilidades
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,6 +50,7 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ### :art: Design
+
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -55,12 +58,14 @@
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)
 
 ### :video_game: Entretenimento
+
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Battle.net](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 
 ### :star: Status
+
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andreadcsousa&show_icons=true&layout=compact&include_all_commits&hide_border=true&theme=outrun" alt="andreadcsousa">-->
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
