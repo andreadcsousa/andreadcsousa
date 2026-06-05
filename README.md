@@ -6,12 +6,14 @@ Especialista em traduzir grandes volumes de dados brutos em inteligência de mer
 
 Além disso, atuo como mentora e tutora de dados, impulsionando a entrada de novas profissionais no ecossistema de tecnologia.
 
+Veja meu portfólio: https://andreadcsousa.github.io/
+
 ---
 
 ### 🧠 No que estou focada:
-* 🛠️ **Arquitetura & Engenharia:** Desenvolvimento de pipelines estruturados, manipulação de grandes volumes de dados e automações.
-* 📊 **Inteligência de Negócios:** Criação de dashboards analíticos voltados a tomadas de decisão de alto nível (Storytelling com Dados).
-* 🧪 **Estatística Avançada:** Modelagem, identificação de anomalias e análise preditiva de indicadores de mercado.
+* 🛠️ **Engenharia:** Desenvolvimento de pipelines estruturados, manipulação de grandes volumes de dados e automações.
+* 📊 **Inteligência:** Criação de dashboards analíticos voltados a tomadas de decisão de alto nível (Storytelling com Dados).
+* 🧪 **Estatística:** Modelagem, identificação de anomalias e análise preditiva de indicadores de mercado.
 
 ---
 
