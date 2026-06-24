@@ -4,7 +4,7 @@
 
 Especialista em projetar soluções analíticas ponta a ponta, conectando engenharia robusta, modelagem avançada e visualização estratégica de dados. Atuo desenhando arquiteturas modernas de dados para eliminar silos de informação, automatizar pipelines complexos e gerar governança para tomadas de decisão de alto nível (Storytelling com Dados).
 
-Além da atuação técnica, sou mentora e tutora de dados, coordenando e impulsionando a entrada de novas profissionais no mercado tech.
+Além da atuação técnica, sou tutora de dados, coordenando e impulsionando a entrada de novas profissionais no mercado tech.
 
 🌐 Veja meu portfólio interativo: https://andreadcsousa.github.io/
 
