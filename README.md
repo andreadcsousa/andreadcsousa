@@ -23,8 +23,9 @@ Além da atuação técnica, sou tutora de dados, coordenando e impulsionando a 
 #### Dados & Engenharia
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![PySpark](https://img.shields.io/badge/PySpark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CE2?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -43,6 +44,16 @@ Além da atuação técnica, sou tutora de dados, coordenando e impulsionando a 
 ![Data Studio](https://img.shields.io/badge/Data%20Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+
+#### Design Estratégico
+
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### Setup
+
+![AMD](https://img.shields.io/badge/Ryzen_5_5600GT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Nvidia](https://img.shields.io/badge/GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ---
 
@@ -64,5 +75,7 @@ Além da atuação técnica, sou tutora de dados, coordenando e impulsionando a 
 ---
 
 ### 📈 Meu Ritmo de Código
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={andreadcsousa}&theme={radical}" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=donut&hide_title=true&stats_format=bytes" height="200">
 
 ![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
