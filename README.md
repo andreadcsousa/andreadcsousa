@@ -80,6 +80,4 @@ Além da atuação técnica, sou tutora de dados, coordenando e impulsionando a 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user={andreadcsousa}&theme={radical}" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreadcsousa&layout=donut&hide_title=true&stats_format=bytes" height="200">
 -->
 
-<!--
-![Snake animation](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
--->
+![snake gif](https://github.com/andreadcsousa/andreadcsousa/blob/output/github-contribution-grid-snake.svg)
